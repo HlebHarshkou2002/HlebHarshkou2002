@@ -1,5 +1,7 @@
 # About me
 
+![alt text](https://github.com/HlebHarshkou2002/HlebHarshkou2002/blob/main/assets/gleb-card.png)
+
 
 ## Resume
 
