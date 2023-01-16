@@ -2,6 +2,7 @@
 
 # About me 🦝
 
+
 Hello! 👋👋👋 <br>
 I am a **junior frontend developer**, currently searching for a job.🔍
 
@@ -24,7 +25,7 @@ There you can find my resume:
 
 [![codewars](https://www.codewars.com/users/HlebHarshkou2002/badges/large)](https://www.codewars.com/users/HlebHarshkou2002) 
 
-# Stack 👨‍💻
+# Stack 👨‍💻 
 
 ## Languages
 
@@ -60,5 +61,30 @@ There you can find my resume:
 
 
 # Some of my Projects
+## MoGo
+
+---
+
+### You can check it out - ***[MoGo](https://hlebharshkou2002.github.io/MoGo/)***
+
+![Mogo screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/MoGo-screen.png)
+
+1. ### Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![Gulp](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=Gulp)
+![BEM](https://img.shields.io/badge/Bem-black?style=for-the-badge&logo=Bem)
+
+2. ### About
+    - Landing page of adstract design company.
+    - Has 15 thematic blocks.
+    - Implemented site navigation.
+    - Implemented the functionality of returning to the top of the page, progress bar without using libraries.
+    - Implemented slider and accordion without using libraries.
+
+
+
 
 
