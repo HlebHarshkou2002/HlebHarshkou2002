@@ -52,6 +52,7 @@ There you can find my resume:
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 ![Gulp](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=Gulp)
 ![Business Studio](https://img.shields.io/badge/Business_Studio-black?style=for-the-badge&logo=ApacheKafka)
+![Canva](https://img.shields.io/badge/CANVA-black?style=for-the-badge&logo=CANVA)
 
 ## Other
 
@@ -60,8 +61,34 @@ There you can find my resume:
 ![C++](https://img.shields.io/badge/C/C%2b%2b-black?style=for-the-badge&logo=C%2b%2b)
 
 
-# Some of my Projects
-## MoGo
+# Some of my Projects 🖼️
+
+## Fairy Forest 🕷️
+
+---
+
+### You can check it out - ***[Fairy Forest](https://hlebharshkou2002.github.io/Fairy-Forest/)***
+
+![FairyForest screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/FairyForest-screen.png)
+
+1. ### Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock)
+![Vanta](https://img.shields.io/badge/VANTA.js-black?style=for-the-badge&logo=V&logoColor=white)
+
+
+2. ### About
+    - Landing page of Fairy Forest.
+    - Flying birds implemented using the library Vanta.js
+    - Implemented the functionality of turning on music at the request of the user.
+    - Parallax effect, cursor, smooth scrolling and navigation menu implemented using the GSAP.
+    - Implemented simple text animation.
+    - Loading window until the site is fully loaded.
+
+## MoGo 🦋
 
 ---
 
