@@ -7,10 +7,12 @@ Hello! 👋👋👋 <br>
 I am a **junior frontend developer**, currently searching for a job.🔍
 
 
-- 🏃‍♂️ I'm currently improving skills in **JavaScript, learning React and Node.js**
-- ✉️ How to contact me: 
+✅ 🏃‍♂️ I'm currently improving skills in **JavaScript, learning React and Node.js** 
+<br>
+
+✅ ✉️ How to contact me: 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/Glebabasta) 
-[![Mail.ru](https://img.shields.io/badge/Mail.ru-orange?style=for-the-badge&logo=mail.ru&logoColor=blue)](hleb.harshkou@mail.ru)
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-orange?style=for-the-badge&logo=mail.ru&logoColor=blue)](hleb.harshkou@mail.ru) <br>
 
 
 ## Resume 📝
@@ -81,12 +83,13 @@ There you can find my resume:
 
 
 2. ### About
-    - Landing page of Fairy Forest.
-    - Flying birds implemented using the library Vanta.js
-    - Implemented the functionality of turning on music at the request of the user.
-    - Parallax effect, cursor, smooth scrolling and navigation menu implemented using the GSAP.
-    - Implemented simple text animation.
-    - Loading window until the site is fully loaded.
+    ✔️ Landing page of Fairy Forest. <br>
+    ✔️ Adaptive, cross-browser, responsive. <br>
+    ✔️ Flying birds implemented using the library Vanta.js <br>
+    ✔️ Implemented the functionality of turning on music at the request of the user. <br>
+    ✔️ Parallax effect, cursor, smooth scrolling and navigation menu implemented using the GSAP. <br>
+    ✔️ Implemented simple text animation. <br>
+    ✔️ Loading window until the site is fully loaded. <br>
 
 ## MoGo 🦋
 
@@ -105,11 +108,12 @@ There you can find my resume:
 ![BEM](https://img.shields.io/badge/Bem-black?style=for-the-badge&logo=Bem)
 
 2. ### About
-    - Landing page of adstract design company.
-    - Has 15 thematic blocks.
-    - Implemented site navigation.
-    - Implemented the functionality of returning to the top of the page, progress bar without using libraries.
-    - Implemented slider and accordion without using libraries.
+    ✔️ Landing page of adstract design company. <br>
+    ✔️ Adaptive, cross-browser, responsive. <br>
+    ✔️ Has 15 thematic blocks. <br>
+    ✔️ Implemented site navigation. <br>
+    ✔️ Implemented the functionality of returning to the top of the page, progress bar without using libraries. <br>
+    ✔️ Implemented slider and accordion without using libraries. <br>
 
 
 
