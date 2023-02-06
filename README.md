@@ -17,11 +17,17 @@ I am a **junior frontend developer**, currently searching for a job.🔍
 
 ## Resume 📝
 
-There you can find my CV:
+There you can find my CV in pdf:
 ***[CV](https://github.com/HlebHarshkou2002/HlebHarshkou2002/blob/main/assets/hleb-harshkou-cv-2.pdf)*** 😊
 
-There you can find my resume:
+There you can find my resume on rabota.by:
 ***[Resume](https://rabota.by/resume/06a726faff0af692e90039ed1f6c4462754b6b)*** 😉
+
+There you can find my own resume project:
+***[Resume Project](https://hlebharshkou2002.github.io/Resume/)*** 👋
+
+![Resume Screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/resume-screen.png)
+
 
 ## Codewars
 
