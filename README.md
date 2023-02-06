@@ -71,7 +71,7 @@ There you can find my resume:
 
 ### You can check it out - ***[Fairy Forest](https://hlebharshkou2002.github.io/Fairy-Forest/)***
 
-![FairyForest screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/FairyForest-screen.png)
+[![FairyForest screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/FairyForest-screen.png)](https://hlebharshkou2002.github.io/Fairy-Forest/)
 
 1. ### Technologies
 
@@ -97,7 +97,7 @@ There you can find my resume:
 
 ### You can check it out - ***[MoGo](https://hlebharshkou2002.github.io/MoGo/)***
 
-![Mogo screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/MoGo-screen.png)
+[![Mogo screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/MoGo-screen.png)](https://hlebharshkou2002.github.io/MoGo/)
 
 1. ### Technologies
 
