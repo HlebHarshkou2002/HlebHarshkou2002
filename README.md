@@ -41,9 +41,10 @@ There you can find my own resume project:
 ## Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=blue)
 ![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
+![AntDesign](https://img.shields.io/badge/Ant_Design-black?style=for-the-badge&logo=antdesign&logoColor=blue)
 ![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock)
 ![BEM](https://img.shields.io/badge/Bem-black?style=for-the-badge&logo=Bem)
 
@@ -72,19 +73,30 @@ There you can find my own resume project:
 
 ### You can check it out - **_[Synergy](https://hlebharshkou2002.github.io/Synergy/)_**
 
-[![Synergy screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/CutSpace-screen.png)](https://hlebharshkou2002.github.io/CutSpace/)
+[![Synergy screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/Synergy-screen.png)](https://hlebharshkou2002.github.io/Synergy/)
 
 1. ### Technologies
 
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
-![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-black?style=for-the-badge&logo=SASS)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
-![BEM](https://img.shields.io/badge/Bem-black?style=for-the-badge&logo=Bem)
+![AntDesign](https://img.shields.io/badge/Ant_Design-black?style=for-the-badge&logo=antdesign&logoColor=blue)
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 
 2. ### About
-   ✔️ Landing page of CutSpace on SASS/SCSS. <br>
-   ✔️ Backend realized on Node.js/Express.js. <br>
+   ❗ If you want to look Synergy social network, first of all you need to create an account using the link:
+   https://social-network.samuraijs.com/signUp
+   <br>
+   ✔️ This project was created at the end of the course on YouTube. <br>
+   ✔️ Redux-form.<br>
+   ✔️ Class Components, methods of lifecycle.<br>
+   ✔️ Functional Components, hooks.<br>
+   ✔️ Browser Router.<br>
+   ✔️ UI, BLL, Flux.<br>
+   ✔️ Unit Tests.<br>
+   ✔️ CSS-modules.<br>
+   ✔️ Pagination<br>
+   ✔️ Axios library<br>
 
 ## CutSpace
 
