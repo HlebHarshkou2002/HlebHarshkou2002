@@ -66,6 +66,26 @@ There you can find my own resume project:
 
 # Some of my Projects 🖼️
 
+## Synergy
+
+---
+
+### You can check it out - **_[Synergy](https://hlebharshkou2002.github.io/Synergy/)_**
+
+[![Synergy screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/CutSpace-screen.png)](https://hlebharshkou2002.github.io/CutSpace/)
+
+1. ### Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-black?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![BEM](https://img.shields.io/badge/Bem-black?style=for-the-badge&logo=Bem)
+
+2. ### About
+   ✔️ Landing page of CutSpace on SASS/SCSS. <br>
+   ✔️ Backend realized on Node.js/Express.js. <br>
+
 ## CutSpace
 
 ---
