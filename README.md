@@ -71,32 +71,30 @@ There you can find my own resume project:
 
 ---
 
-### You can check it out - **_[Synergy](https://hlebharshkou2002.github.io/Synergy/)_**
+### You can check it out - **_[Olympia Gym](https://hlebharshkou2002.github.io/Synergy/)_**
 
-[![Synergy screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/Synergy-screen.png)](https://hlebharshkou2002.github.io/Synergy/)
+[![Olympia Gym screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/Olympia-GYM-screen.png)]()
 
 1. ### Technologies
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
-![AntDesign](https://img.shields.io/badge/Ant_Design-black?style=for-the-badge&logo=antdesign&logoColor=blue)
 ![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 
 2. ### About
    ❗ If you want to look Synergy social network, first of all you need to create an account using the link:
    https://social-network.samuraijs.com/signUp
    <br>
-   ✔️ This project was created at the end of the course on YouTube. <br>
-   ✔️ Redux-form.<br>
+   ✔️ Administrator status, Statistics.<br>
+   ✔️ Registration, Authorization(JWT token).<br>
    ✔️ Class Components, methods of lifecycle.<br>
-   ✔️ Functional Components, hooks.<br>
+   ✔️ Supports multiple users.<br>
    ✔️ Browser Router.<br>
    ✔️ UI, BLL, Flux.<br>
-   ✔️ Unit Tests.<br>
-   ✔️ CSS-modules.<br>
+   ✔️ Create, Read, Update, Delete.<br>
    ✔️ Pagination.<br>
-   ✔️ Axios library, Selectors.<br>
+   ✔️ Axios library<br>
 
 ## Synergy
 
