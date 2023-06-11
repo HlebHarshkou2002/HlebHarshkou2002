@@ -71,9 +71,9 @@ There you can find my own resume project:
 
 ---
 
-### You can check it out - **_[Olympia Gym](https://hlebharshkou2002.github.io/Synergy/)_**
+### You can check it out - **_[Olympia Gym(ReadMe)](https://github.com/HlebHarshkou2002/OlympiaGym/blob/main/README.md)_**
 
-[![Olympia Gym screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/Olympia-GYM-screen.png)]()
+[![Olympia Gym screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/MoGo/Olympia-GYM-screen.png)](https://github.com/HlebHarshkou2002/OlympiaGym/blob/main/README.md)
 
 1. ### Technologies
 
@@ -83,10 +83,9 @@ There you can find my own resume project:
 ![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 
 2. ### About
-   ❗ If you want to look Synergy social network, first of all you need to create an account using the link:
-   https://social-network.samuraijs.com/signUp
+   ❗ All information about the project is in the ReadMe, because there is no way to put the project on GitHubPages
    <br>
-   ✔️ Administrator status, Statistics.<br>
+   ✔️ Administrator status, statistics.<br>
    ✔️ Registration, Authorization(JWT token).<br>
    ✔️ Class Components, methods of lifecycle.<br>
    ✔️ Supports multiple users.<br>
@@ -95,6 +94,7 @@ There you can find my own resume project:
    ✔️ Create, Read, Update, Delete.<br>
    ✔️ Pagination.<br>
    ✔️ Axios library<br>
+   ✔️ Java Backend<br>
 
 ## Synergy
 
