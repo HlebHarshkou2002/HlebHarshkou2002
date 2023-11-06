@@ -51,6 +51,7 @@ There you can find my own resume project:
 ## Tools
 
 ![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=VisualStudio&logoColor=blue)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
 ![GoogleChrome](https://img.shields.io/badge/Google_Chrome-black?style=for-the-badge&logo=GoogleChrome)
 ![Prepros](https://img.shields.io/badge/Prepros-black?style=for-the-badge&logo=svgo)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)
@@ -67,6 +68,35 @@ There you can find my own resume project:
 
 # Some of my Projects 🖼️
 
+## BananaBlog 
+
+---
+
+### You can check it out - **_[BananaBlog](https://banana-blog-frontend.vercel.app/)_**
+
+1. ### Technologies
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux_toolkit-black?style=for-the-badge&logo=Redux&logoColor=blue)
+![CSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![MUI](https://img.shields.io/badge/Material_UI-black?style=for-the-badge&logo=MUI)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-black?style=for-the-badge&logo=MongoDB)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
+
+
+2. ### About
+   ❗ This is a blog where real monkeys can discuss important topics.
+
+   ✔️ Material UI library.<br>
+   ✔️ Deployment on Vercel and Railway.<br>
+   ✔️ Registration and JWT Authorization.<br>
+   ✔️ Create, Read, Update, Delete posts functionality.<br>
+   ✔️ First API.<br>
+   ✔️ You can upload an image.<br>
+   ✔️ You can see the number of views of the post.<br>
+
+
 ## Olympia Gym 
 
 ---
@@ -80,7 +110,9 @@ There you can find my own resume project:
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
-![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
+![Java](https://img.shields.io/badge/Java(Spring)-black?style=for-the-badge&logo=Spring)
+![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=Postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
 
 2. ### About
    ❗ All information about the project is in the ReadMe, because there is no way to put the project on GitHubPages
