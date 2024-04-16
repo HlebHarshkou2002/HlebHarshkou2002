@@ -68,6 +68,34 @@ There you can find my own resume project:
 
 # Some of my Projects 🖼️
 
+## Lucky
+
+---
+
+[![Olympia Gym screen](https://raw.githubusercontent.com/HlebHarshkou2002/HlebHarshkou2002/main/assets/projects-screens/Lucky/admin.png)](https://github.com/HlebHarshkou2002/OlympiaGym/blob/main/README.md)
+
+1. ### Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux_toolkit-black?style=for-the-badge&logo=Redux&logoColor=blue)
+![SCSS](https://img.shields.io/badge/SCSS_modules-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![Ant Design](https://img.shields.io/badge/ant_design-black?style=for-the-badge&logo=ant-design)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-black?style=for-the-badge&logo=MongoDB)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
+
+2. ### About
+   ❗ This is a admin side of Lucky online shop, where you can to work with products, sales, providers and other.
+
+   ✔️ Ant Desugn library.<br>
+   ✔️ Registration and JWT Authorization.<br>
+   ✔️ Create, Read, Update, Delete products functionality.<br>
+   ✔️ Chart.js library<br>
+   ✔️ Sidebar with filtration of sales<br>
+   ✔️ A lot of pages.<br>
+
+
 ## BananaBlog 
 
 ---
